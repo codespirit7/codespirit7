@@ -14,6 +14,7 @@
 <a href="https://www.codechef.com/users/turing_m7" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="@turing_m7" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/@turing_m7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="@turing_m7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/turing_m7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@turing_m7" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/@codespirit7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@codespirit7" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
