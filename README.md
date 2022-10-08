@@ -1,7 +1,7 @@
 ## 👋 Hey everyone, I'm Ritesh Singh AKA the Codespirit7 ®™ 👋
 ![code](https://user-images.githubusercontent.com/88592710/194705266-a675da46-102d-449f-9e7f-2f351c42aec1.jpeg)
 
-### Find me all around the web:
+## Find me all around the web:
 
 <p align="left">
 <a href="(https://twitter.com/singh_ritesh14)" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
@@ -16,7 +16,7 @@ Also have a hands-on experience of version control systems like Git & Github as 
 I understand the concepts of data structures and algorithms effectively and how to implement it practically , also had a good understanding of object oriented programming (C++) , operating system and database management.
 
 
-### Coding Profiles
+## Coding Profiles
 
 <a href="https://www.codechef.com/users/turing_m7" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="@turing_m7" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/@turing_m7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="@turing_m7" height="30" width="40" /></a>
