@@ -1,8 +1,7 @@
-## 👋 Hey everyone, I'm Ritesh Singh®™ AKA the Codespirit7 ®™ 👋
+## 👋 Hey everyone, I'm Ritesh Singh AKA the Codespirit7 ®™ 👋
 
-- 👋 Hi, I’m @codespirit7
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
+![ben 10 avatar](https://user-images.githubusercontent.com/88592710/194704540-82e8a752-f5ed-419d-aaed-5e50ed7a1a30.jpg)
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
