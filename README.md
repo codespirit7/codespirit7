@@ -8,9 +8,10 @@
 <a href="http://linkedin.com/in/ritesh-in" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 <a href="http://instagram.com/turingmachine_" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
 </p>
-(https://github.com/codespirit7/github-readme-stats) and [🔥 GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
 
 <img src="https://github.com/codespirit7/codespirit7/blob/master/ezgif-4-5370f601a9b3.gif" width="700">
+
+<img src = "https://skyline.github.com/codespirit7/2021 height = "120 width = "700">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codespirit7&theme=radical)](https://git.io/streak-stats)
 
