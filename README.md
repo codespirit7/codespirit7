@@ -12,6 +12,6 @@
 
 <img src="https://github.com/codespirit7/codespirit7/blob/master/ezgif-4-5370f601a9b3.gif" width="700">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codespirit7)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codespirit7&theme=radical)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=codespirit7&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for codespirit7" width="700">
