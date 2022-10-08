@@ -9,6 +9,13 @@
 <a href="http://instagram.com/turingmachine_" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
 </p>
 
+## Something about me :
+I am pursuing B.tech in Computer Science and currently am in third year of my college degree.
+I have been doing programming from more than a year, and have a great experience in building web apps using technologies like REACTJS, NODEJS, MONGODB, EXPRESSJS, writing REST API for the back-end services.
+Also have a hands-on experience of version control systems like Git & Github as well as API testing applications like POSTMAN and deploying a full-stack application on HEROKU.
+I understand the concepts of data structures and algorithms effectively and how to implement it practically , also had a good understanding of object oriented programming (C++) , operating system and database management.
+
+
 ### Coding Profiles
 
 <a href="https://www.codechef.com/users/turing_m7" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="@turing_m7" height="30" width="40" /></a>
