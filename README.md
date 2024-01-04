@@ -8,8 +8,8 @@
  
 
 ## Something about me :
-I am pursuing B.tech in Computer Science and currently am in third year of my college degree.
-I have been doing programming from more than a year, and have a great experience in building web apps using technologies like REACTJS, NODEJS, MONGODB, EXPRESSJS, writing REST API for the back-end services.
+I am pursuing B.tech in Computer Science and currently am in final year of my college degree.
+I have been doing programming from years, and have a great experience in building web apps using technologies like REACTJS, NODEJS, MONGODB, EXPRESSJS, writing REST API for the back-end services.
 Also have a hands-on experience of version control systems like Git & Github as well as API testing applications like POSTMAN and deploying a full-stack application on HEROKU.
 I understand the concepts of data structures and algorithms effectively and how to implement it practically , also had a good understanding of object oriented programming (C++) , operating system and database management.
 
