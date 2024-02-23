@@ -25,7 +25,6 @@ my life just belong to my codes that i write on code editor, bash and specially 
 ![Static Badge](https://img.shields.io/badge/-docker-000%3F%26logo%3Ddocker?style=for-the-badge&logo=docker&logoColor=blue&color=black)
 ![Static Badge](https://img.shields.io/badge/-linux-000%3F%26logo%3Dlinux?style=for-the-badge&logo=linux&logoColor=yellow&color=black)
 ![Static Badge](https://img.shields.io/badge/-node-000%3F%26logo%3DNode?style=for-the-badge&logo=nodedotjs&logoColor=green&color=black)
-
 ![Static Badge](https://img.shields.io/badge/-Express-000%3F%26logo%3DExpress?style=for-the-badge&logo=Express&logoColor=green&color=black)
 ![Static Badge](https://img.shields.io/badge/-React-000%3F%26logo%3DReact?style=for-the-badge&logo=React&logoColor=blue&color=black)
 ![Static Badge](https://img.shields.io/badge/-redis-000%3F%26logo%3Dredis?style=for-the-badge&logo=redis&logoColor=red&color=black)
