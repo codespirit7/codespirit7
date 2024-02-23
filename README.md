@@ -1,5 +1,6 @@
 ## 👋 Hey everyone, I'm Ritesh Singh @ Codespirit7 ®™ 👋
-![Screenshot from 2024-02-23 19-53-01](https://github.com/codespirit7/codespirit7/assets/88592710/3b88ebd4-adbc-4cf4-aa3f-04fafa7cdd76)
+![wallpaperflare-cropped](https://github.com/codespirit7/codespirit7/assets/88592710/3a8b2069-2b88-4fac-8c25-58369c045adc)
+
 
 
 
