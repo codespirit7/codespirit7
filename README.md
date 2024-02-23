@@ -23,6 +23,8 @@ my life just belong to my codes that i write on code editor, bash and specially 
 ![Static Badge](https://img.shields.io/badge/-typescript-000%3F%26logo%3Dtypescript?style=for-the-badge&logo=typescript&logoColor=blue&color=black)
 ![Static Badge](https://img.shields.io/badge/-python-000%3F%26logo%3Dpython?style=for-the-badge&logo=python&logoColor=voilet&color=black)
 ![Static Badge](https://img.shields.io/badge/-sql-000%3F%26logo%3Dsql?style=for-the-badge&logo=sql&logoColor=orange&color=black)
+![Static Badge](https://img.shields.io/badge/-Ruby-000%3F%26logo%3Druby?style=for-the-badge&logo=ruby&logoColor=orange&color=black)
+
 
 
 
