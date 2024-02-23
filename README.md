@@ -1,7 +1,5 @@
 ## 👋 Hey everyone, I'm Ritesh Singh @ Codespirit7 ®™ 👋
-![AdobeStock_725364194_Preview](https://github.com/codespirit7/codespirit7/assets/88592710/614e15ef-2c89-4150-a376-773edb7445e9)
-
-
+![Screenshot from 2024-02-23 22-25-50](https://github.com/codespirit7/codespirit7/assets/88592710/e9ca146b-2fd0-4369-bfbc-0d674920d5e1)
 
 
 
