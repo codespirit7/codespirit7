@@ -3,8 +3,8 @@
 
 ## Social Profile:
 
-<a href="http://linkedin.com/in/ritesh-in" target="blank"><img align="center" src="https://img.shields.io/badge/-linkedin-000%3F%26logo%3Dlinkedin?style=for-the-badge&logo=linkedin&logoColor=blue&color=black
-" alt="" height="30" /></a>     <a href="http://instagram.com/turingmachine_" target="blank"><img align="center" src="https://img.shields.io/badge/-instagram-000%3F%26logo%3Dinstagram?style=for-the-badge&logo=instagram&logoColor=pink&color=black" alt="" height="30" /></a>
+<a href="http://linkedin.com/in/ritesh-in" target="blank"><img align="center" src="https://img.shields.io/badge/-linkedin-000%3F%26logo%3Dlinkedin?style=for-the-badge&logo=linkedin&logoColor=blue&color=black" alt="" height="30" /></a>
+<a href="http://instagram.com/turingmachine_" target="blank"><img align="center" src="https://img.shields.io/badge/-instagram-000%3F%26logo%3Dinstagram?style=for-the-badge&logo=instagram&logoColor=pink&color=black" alt="" height="30" /></a>
   
  
 
