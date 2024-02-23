@@ -1,7 +1,10 @@
 ## 👋 Hey everyone, I'm Ritesh Singh @ Codespirit7 ®™ 👋
 ![Screenshot from 2024-02-23 22-25-50](https://github.com/codespirit7/codespirit7/assets/88592710/e9ca146b-2fd0-4369-bfbc-0d674920d5e1)
 
+ 
 
+## Something about me :
+I am a computer engineer and i can talk to computers.
 
 
 ## Social Profile:
@@ -9,10 +12,6 @@
 <a href="https://linkedin.com/in/ritesh-in" target="blank"><img align="center" src="https://img.shields.io/badge/-linkedin-000%3F%26logo%3Dlinkedin?style=for-the-badge&logo=linkedin&logoColor=blue&color=black" alt="" height="30" /></a>
 <a href="https://instagram.com/turingmachine_" target="blank"><img align="center" src="https://img.shields.io/badge/-instagram-000%3F%26logo%3Dinstagram?style=for-the-badge&logo=instagram&logoColor=pink&color=black" alt="" height="30" /></a>
   
- 
-
-## Something about me :
-I am a computer engineer and i speak binaries 10. My life just belong to my codes that i write on code editor, bash and specially that i write on leetcode.
 
 ### Languages
 
