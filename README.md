@@ -1,5 +1,5 @@
 ## 👋 Hey everyone, I'm Ritesh Singh @ Codespirit7 ®™ 👋
-![giphy-readme2](https://github.com/codespirit7/codespirit7/assets/88592710/aefa5c4d-469c-448e-8168-31f9a83c2070)
+![sunset-404072_1280](https://github.com/codespirit7/codespirit7/assets/88592710/8d1608d4-8783-41d0-a425-74dc3f5cf7d7)
 
 
 ## Social Profile:
