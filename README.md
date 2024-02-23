@@ -3,7 +3,8 @@
 
 ## Social Profile:
 
-<a href="http://linkedin.com/in/ritesh-in" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>     <a href="http://instagram.com/turingmachine_" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
+<a href="http://linkedin.com/in/ritesh-in" target="blank"><img align="center" src="https://img.shields.io/badge/-linkedin-000%3F%26logo%3Dlinkedin?style=for-the-badge&logo=linkedin&logoColor=blue&color=black
+" alt="" height="30" /></a>     <a href="http://instagram.com/turingmachine_" target="blank"><img align="center" src="https://img.shields.io/badge/-instagram-000%3F%26logo%3Dinstagram?style=for-the-badge&logo=instagram&logoColor=pink&color=black" alt="" height="30" /></a>
   
  
 
@@ -13,13 +14,13 @@ my life just belong to my codes that i write on code editor, bash and specially 
 ### Languages
 
 ![Static Badge](https://img.shields.io/badge/-C%2B%2B-000%3F%26logo%3DC%2B%2B?style=for-the-badge&logo=C%2B%2B&logoColor=Blue&color=black)
-
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Static Badge](https://img.shields.io/badge/-javascript-000%3F%26logo%3Djavascript?style=for-the-badge&logo=javascript&logoColor=yellow&color=black)
 ![Static Badge](https://img.shields.io/badge/-GO-000%3F%26logo%3DGo?style=for-the-badge&logo=Go&logoColor=blue&color=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Static Badge](https://img.shields.io/badge/-typescript-000%3F%26logo%3Dtypescript?style=for-the-badge&logo=typescript&logoColor=blue&color=black)
+![Static Badge](https://img.shields.io/badge/-python-000%3F%26logo%3Dpython?style=for-the-badge&logo=python&logoColor=voilet&color=black)
+![Static Badge](https://img.shields.io/badge/-sql-000%3F%26logo%3Dsql?style=for-the-badge&logo=sql&logoColor=orange&color=black)
+
+
 
 ### Technologies
 ![Static Badge](https://img.shields.io/badge/-docker-000%3F%26logo%3Ddocker?style=for-the-badge&logo=docker&logoColor=blue&color=black)
