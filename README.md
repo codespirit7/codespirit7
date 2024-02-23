@@ -12,7 +12,7 @@
  
 
 ## Something about me :
-my life just belong to my codes that i write on code editor, bash and specially that i write on leetcode.
+I am a computer engineer and i speak binaries 10. My life just belong to my codes that i write on code editor, bash and specially that i write on leetcode.
 
 ### Languages
 
