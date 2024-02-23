@@ -12,7 +12,8 @@ my life just belong to my codes that i write on code editor, bash and specially 
 
 ### Languages
 
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Static Badge](https://img.shields.io/badge/-C%2B%2B-000%3F%26logo%3DC%2B%2B?style=for-the-badge&logo=C%2B%2B&logoColor=Blue&color=black)
+
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Static Badge](https://img.shields.io/badge/-GO-000%3F%26logo%3DGo?style=for-the-badge&logo=Go&logoColor=blue&color=black)
@@ -21,12 +22,13 @@ my life just belong to my codes that i write on code editor, bash and specially 
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### Technologies
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Static Badge](https://img.shields.io/badge/-docker-000%3F%26logo%3Ddocker?style=for-the-badge&logo=docker&logoColor=blue&color=black)
+![Static Badge](https://img.shields.io/badge/-linux-000%3F%26logo%3Dlinux?style=for-the-badge&logo=linux&logoColor=yellow&color=black)
+![Static Badge](https://img.shields.io/badge/-node-000%3F%26logo%3DNode?style=for-the-badge&logo=nodedotjs&logoColor=green&color=black)
+
 ![Static Badge](https://img.shields.io/badge/-Express-000%3F%26logo%3DExpress?style=for-the-badge&logo=Express&logoColor=green&color=black)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Static Badge](https://img.shields.io/badge/-React-000%3F%26logo%3DReact?style=for-the-badge&logo=React&logoColor=blue&color=black)
+![Static Badge](https://img.shields.io/badge/-redis-000%3F%26logo%3Dredis?style=for-the-badge&logo=redis&logoColor=red&color=black)
+![Static Badge](https://img.shields.io/badge/-spring-000%3F%26logo%3Dspring?style=for-the-badge&logo=spring&logoColor=green&color=black)
 
 
