@@ -1,5 +1,5 @@
 ## 👋 Hey everyone, I'm Ritesh Singh @ Codespirit7 ®™ 👋
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/hSLDN6zfh2Yy4ekMWi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/justin-hSLDN6zfh2Yy4ekMWi">via GIPHY</a></p>
+<img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczkwdTZxMzM0eHN6MzQ2azRsc3pjdDNwa2N1eTIxNDd6ZjE3dDFraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hSLDN6zfh2Yy4ekMWi/giphy-downsized-large.gif"/>
 
 ## Social Profile:
 
