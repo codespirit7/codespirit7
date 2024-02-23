@@ -1,5 +1,5 @@
 ## 👋 Hey everyone, I'm Ritesh Singh @ Codespirit7 ®™ 👋
-<img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczkwdTZxMzM0eHN6MzQ2azRsc3pjdDNwa2N1eTIxNDd6ZjE3dDFraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hSLDN6zfh2Yy4ekMWi/giphy-downsized-large.gif"/>
+[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczkwdTZxMzM0eHN6MzQ2azRsc3pjdDNwa2N1eTIxNDd6ZjE3dDFraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hSLDN6zfh2Yy4ekMWi/giphy-downsized-large.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZ0Zm1vdjZzOXdlOW1lcWF0Nmx4dzh0cXc1NjBiN3pqMHp5ajlkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2R0cvMrULqv6se4M/giphy.mp4)"
 
 ## Social Profile:
 
