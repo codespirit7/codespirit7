@@ -1,6 +1,4 @@
 ## 👋 Hey everyone, I'm Ritesh Singh @ Codespirit7 ®™ 👋
-
-## Something about me :
 I am a computer engineer and i can talk to computers.
 
 
