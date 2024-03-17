@@ -1,7 +1,4 @@
 ## 👋 Hey everyone, I'm Ritesh Singh @ Codespirit7 ®™ 👋
-![Screenshot from 2024-02-23 22-25-50](https://github.com/codespirit7/codespirit7/assets/88592710/e9ca146b-2fd0-4369-bfbc-0d674920d5e1)
-
- 
 
 ## Something about me :
 I am a computer engineer and i can talk to computers.
