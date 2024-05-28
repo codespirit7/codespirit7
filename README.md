@@ -8,7 +8,7 @@
 <a href="https://twitter.com/singh_ritesh14" target="blank"><img align="center" src="https://img.shields.io/badge/-twitter-000%3F%26logo%3Dtwitter?style=for-the-badge&logo=twitter&logoColor=blue&color=black" alt="" height="30" /></a>
   
 
-### Languages
+## Languages
 
 ![Static Badge](https://img.shields.io/badge/-C%2B%2B-000%3F%26logo%3DC%2B%2B?style=for-the-badge&logo=C%2B%2B&logoColor=Blue&color=black)
 ![Static Badge](https://img.shields.io/badge/-javascript-000%3F%26logo%3Djavascript?style=for-the-badge&logo=javascript&logoColor=yellow&color=black)
@@ -21,7 +21,7 @@
 
 
 
-### Technologies
+## Technologies
 ![Static Badge](https://img.shields.io/badge/-docker-000%3F%26logo%3Ddocker?style=for-the-badge&logo=docker&logoColor=blue&color=black)
 ![Static Badge](https://img.shields.io/badge/-linux-000%3F%26logo%3Dlinux?style=for-the-badge&logo=linux&logoColor=yellow&color=black)
 ![Static Badge](https://img.shields.io/badge/-node-000%3F%26logo%3DNode?style=for-the-badge&logo=nodedotjs&logoColor=green&color=black)
