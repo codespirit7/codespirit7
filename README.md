@@ -3,7 +3,6 @@
 
 ## Social Profile:
 
-<a href="https://linkedin.com/in/ritesh-in" target="blank"><img align="center" src="https://img.shields.io/badge/-linkedin-000%3F%26logo%3Dlinkedin?style=for-the-badge&logo=linkedin&logoColor=blue&color=black" alt="" height="30" /></a>
 <a href="https://twitter.com/singh_ritesh14" target="blank"><img align="center" src="https://img.shields.io/badge/-twitter-000%3F%26logo%3Dtwitter?style=for-the-badge&logo=twitter&logoColor=blue&color=black" alt="" height="30" /></a>
   
 
